@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.container {
+    width: 80%;
+    margin: auto;
+}
+button {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+#book-list {
+    margin-top: 20px;
+}
+.book {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
